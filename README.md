@@ -36,10 +36,10 @@ for an idea of what the script does.
 
 Before clicking the "Create Table" button:  
   
-![Screenshot 1](https://github.com/skratchdot/w3c-html-elements.user.js/blob/master/images/screen1.gif)
+![Screenshot 1](https://github.com/skratchdot/w3c-html-elements.user.js/raw/master/images/screen1.gif)
   
 After clicking the "Create Table" button:  
   
-![Screenshot 2](https://github.com/skratchdot/w3c-html-elements.user.js/blob/master/images/screen2.gif)
+![Screenshot 2](https://github.com/skratchdot/w3c-html-elements.user.js/raw/master/images/screen2.gif)
   
   
